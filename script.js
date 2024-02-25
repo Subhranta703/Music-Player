@@ -21,14 +21,14 @@ const songs=[
     {
         artistName: "poonam",
         songName:"Ram Siya Ram",
-        img:"images/Ram siya Ram.jpg",
-        music:"musics/Ram siya Ram.mp3"
+        img:"images/Ram Siya Ram.jpg",
+        music:"musics/Ram Siya Ram.mp3"
     },
     {
         artistName: "Kumar Sanu",
         songName:"Tu Pyaar hai kisi aur ka",
         img:"images/Tu Pyaar hai kisi aur ka.jpg",
-        music:"musics/Tu Pyaar hai kisi aur ka.mp3"
+        music:"musics/Tu Pyaar hai kisi Aur Ka.mp3"
     },
     {
         artistName: "Raghav",
