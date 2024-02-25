@@ -34,7 +34,7 @@ const songs=[
     {
         artistName: "Kumar Sanu",
         songName:"Tu Pyaar hai kisi aur ka",
-        img:"images/tu Pyaar hai kisi aur ka.jpg",
+        img:"images/tu pyaar hai kisi aur ka.jpg",
         music:"musics/Tu Pyaar hai kisi Aur Ka.mp3"
     },
     {
