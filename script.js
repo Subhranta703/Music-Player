@@ -25,6 +25,13 @@ const songs=[
         music:"musics/Ram Siya Ram.mp3"
     },
     {
+        artistName: "Arijit Singh",
+        songName:"Aaj Se Teri" ,
+        img:"images/Aaj-Se-Teri.jpg",
+        music:"musics/Aaj-Se-Teri.mp3"
+
+    },
+    {
         artistName: "Kumar Sanu",
         songName:"Tu Pyaar hai kisi aur ka",
         img:"images/Tu Pyaar hai kisi aur ka.jpg",
