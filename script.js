@@ -16,6 +16,7 @@ const container= document.querySelector("#container");
 let isPlaying= false;
 let trackIndex= 0;
 
+
 const songs=[
     {
         artistName: "poonam",
