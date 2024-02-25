@@ -27,8 +27,8 @@ const songs=[
     {
         artistName: "Arijit Singh",
         songName:"Aaj Se Teri" ,
-        img:"images/Aaj-Se-Teri.jpg",
-        music:"musics/Aaj-Se-Teri.mp3"
+        img:"images/Aaj Se Teri.jpg",
+        music:"musics/Aaj Se Teri.mp3"
 
     },
     {
